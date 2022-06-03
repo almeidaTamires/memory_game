@@ -11,5 +11,5 @@ Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML,
 ## Tecnologias Usadas
 
 - HTML 
-- -CSS 
-- -JavaScript
+- CSS 
+- JavaScript
